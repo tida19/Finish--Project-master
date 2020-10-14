@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project To-Do</string>
+
+    <string name="list_toDo">List To-Do</string>
+
+    <string name="input_activity">Filled Activity Here</string>
+    <string name="message">Deleted</string>
+
+    <string name="addButton">Add</string>
+    <string name="clearButton">Clear</string>
+    <string name="Menu">add_menu</string>
+    <string name="add_menu">Menu</string>
+    <string name="add_order">Order</string>
+    <string name="PapayaSalad">Papaya Salad\n-papay\n-tomato\n-pepper\n-garlic\n-fish sauce\n-sugar\n-pickled fish\n-long beans</string>
+    <string name="YumSeafood">Yum Seafood\n-shrimp\n-squid\n-crab\n-chili\n-Onion\n-Garlic juice\n-sugar\n-fish sauce\n-sauce\n-lemon\n-Spring onions\n-coriander  "</string>
+    <string name="Greencurry">Green curry\n-Green Curry Paste\n-chicken\n-Eggplant\n-coconut milk\n-Red pepper\n-Astrologer leaves\n-Pip sugar\n-fish sauce  "</string>
+    <string name="PadThai">Pad Thai\n-Pad Thai Sauce\n-Fresh shrimp\n-Yellow tofu\n-Radish\n-Thin noodles\n-Raw sprouts\n-Chives\n-Chicken eggs\n-Vegetable oil\n-Ground Roasted Peanuts\n-Fresh vegetables</string>
+    <string name="TomYumKung">Tom Yum Kung\n-Clean water\n-lemon grass\n-Galangal\n-Kaffir lime leaves\n-Chili\n-garlic\n-shrimp\n-Straw mushroom\n-tomato\n-Tamarind\n-fish sauce\n-Soy Sauce\n-sugar\n-Chili Paste\n-lemon</string>
+    <string name="FriedRice">Fried rice\n-Minced garlic\n-Vegetable oil\n-Duck eggs\n-cooked rice\n-Seasoning sauce\n-Soy Sauce\n-Granulated sugar\n-Beginning of the alley\n-pepper\n-Spring onions\n-lemon</string>
+
+</resources>

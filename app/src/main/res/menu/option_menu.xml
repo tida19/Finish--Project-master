@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/orderfragment"
+        android:icon="@drawable/ic_food"
+        android:title="@string/add_order" />
+    <item
+        android:id="@+id/toDoFragment"
+        android:icon="@drawable/ic_baseline_add_circle_24"
+        android:title="@string/list_toDo" />
+    
+</menu>
